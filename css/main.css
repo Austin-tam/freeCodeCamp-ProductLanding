@@ -264,3 +264,7 @@ textarea {
 #header-img {
   width: 80px;
 }
+
+body {
+  padding-top: 100px;
+}
